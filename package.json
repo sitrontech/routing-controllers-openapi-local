@@ -1,5 +1,5 @@
 {
-  "name": "routing-controllers-openapi",
+  "name": "routing-controllers-openapi-local",
   "version": "4.0.0",
   "description": "Runtime OpenAPI v3 spec generation for routing-controllers",
   "keywords": [
@@ -10,7 +10,7 @@
   ],
   "main": "build/index.js",
   "types": "build/index.d.ts",
-  "repository": "git@github.com:epiphone/routing-controllers-openapi",
+  "repository": "git@github.com:sitrontech/routing-controllers-openapi-local",
   "author": "Aleksi Pekkala <aleksipekkala@gmail.com>",
   "license": "MIT",
   "scripts": {
